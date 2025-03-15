@@ -10845,7 +10845,7 @@
             <Game>Hollow Knight Mods</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/ShootMe/LiveSplit.HollowKnight/master/Components/LiveSplit.HollowKnight.dll</URL>
+            <URL>https://github.com/AlexKnauth/LiveSplit.HollowKnight/raw/refs/heads/debug-print/Components/LiveSplit.HollowKnight.dll</URL>
         </URLs>
         <Type>Component</Type>
         <Description>Configurable Load Remover / Auto Splitter. (By DevilSquirrel)</Description>
